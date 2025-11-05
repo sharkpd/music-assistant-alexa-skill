@@ -17,7 +17,7 @@
       "category": "MUSIC_AND_AUDIO_ACCESSORIES",
       "distributionCountries": [],
       "isAvailableWorldwide": true,
-      "locales": {
+      "locales": { 
         "en-US": {
           "description": "Sample skill using the AudioPlayer interface",
           "examplePhrases": [
@@ -26,6 +26,15 @@
           "keywords": [],
           "name": "Audioplayer sample",
           "summary": "Sample Short Description"
+        },
+        "it-IT": {
+          "description": "Skill di esempio per usare l'interfaccia AudioPlayer",
+          "examplePhrases": [
+            "Alexa apri l'esempio audio player"
+          ],
+          "keywords": [],
+          "name": "esempio Audioplayer",
+          "summary": "Descrizione breve di esempio"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
